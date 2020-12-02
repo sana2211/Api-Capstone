@@ -17,4 +17,5 @@ You can find Recipe Creation at https://sana2211.github.io/Api-Capstone/
 Technical
 
 •	The app was built using HTML5, CSS, JavaScript and jQuery.
+
 •	The app is fully responsive.
