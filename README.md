@@ -1,4 +1,4 @@
-# Api-Capstone
+Api-Capstone
 First Capstone Project- a website that gets data from a third party API
 
 Introduction
@@ -6,7 +6,6 @@ Introduction
 Recipe Creation gives users the ability to search different recipes by just entering some random ingredients. The results display images with calories count and a link to view the full recipe . 
 
 User
-
 
 This app will be useful for people with dietary restrictions, calorie count and food allergies.  
 
